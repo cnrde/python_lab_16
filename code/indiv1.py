@@ -1,5 +1,4 @@
-from modul import fun1
-
+from module import fun1
 
 if __name__ == "__main__":
     a = int(input("введите а "))
